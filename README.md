@@ -1,28 +1,41 @@
-Hey, I'm Alex 👋
-I'm a Product Manager who got tired of just writing specs — so I started building the things I used to hand off.
-I use AI as my co-builder to turn ideas into real, working tools. My background is in product strategy and user research, which means I obsess over the why before I touch the how.
+# Hey, I'm Alex 👋
 
-🔨 What I'm building
+I'm a **Product Manager** who got tired of just writing specs — so I started building the things I used to hand off.
+
+I use AI as my co-builder to turn ideas into real, working tools. My background is in product strategy and user research, which means I obsess over the *why* before I touch the *how*.
+
+---
+
+## 🔨 What I'm building
+
 AI-powered tools that solve real problems — the kind I used to wish existed in my day job as a PM.
+
 Each project here started as a product idea, not a coding exercise. I use Claude and other AI tools to handle the heavy lifting on the code side, while I focus on the problem definition, user flow, and documentation.
 
-🧠 My approach
+---
+
+## 🧠 My approach
+
 Most of what I build follows the same loop:
 
-Define the problem — one sentence, no jargon
-Spec the solution — what does "done" look like?
-Build with AI — prompt, iterate, test
-Ship and document — README first, always
+1. **Define the problem** — one sentence, no jargon
+2. **Spec the solution** — what does "done" look like?
+3. **Build with AI** — prompt, iterate, test
+4. **Ship and document** — README first, always
 
+---
 
-📌 Featured projects
+## 📌 Featured projects
 
-(Pinned below — each README explains what the tool does, why I built it, and what I learned)
+*(Pinned below — each README explains what the tool does, why I built it, and what I learned)*
 
+---
 
-📫 Let's connect:
-📧 alexander.y.koh@gmail.com
-https://www.linkedin.com/in/alexander-y-koh/
+## 📫 Let's connect
 
+- 📧 alexander.y.koh@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexander-y-koh/)
 
-Building in public. Learning by shipping
+---
+
+*Building in public. Learning by shipping.*
