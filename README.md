@@ -25,4 +25,4 @@ Ship and document — README first, always
 https://www.linkedin.com/in/alexander-y-koh/
 
 
-Building in public. Learning by shipping.## Hi there 👋
+Building in public. Learning by shipping
