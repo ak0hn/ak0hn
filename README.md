@@ -27,7 +27,10 @@ Most of what I build follows the same loop:
 
 ## 📌 Featured projects
 
-*(Pinned below — each README explains what the tool does, why I built it, and what I learned)*
+### 🏈 [Pick'em](https://github.com/ak0hn/pickem)
+An NFL pick'em league app built to replace a manual email-based system.
+Players pick 6 games against the spread each week — all 6 must be correct to win.
+Built with Next.js, Supabase, and Vercel. Mobile-first PWA. Target launch: September 2026.
 
 ---
 
