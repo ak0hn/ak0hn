@@ -32,6 +32,11 @@ An NFL pick'em league app built to replace a manual email-based system.
 Players pick 6 games against the spread each week — all 6 must be correct to win.
 Built with Next.js, Supabase, and Vercel. Mobile-first PWA. Target launch: September 2026.
 
+### 🔒 Also in progress (private)
+
+- **Caddie** — AI-powered golf companion for wearables
+- **Run Coach** — Real-time audio coaching for runners
+
 ---
 
 ## 📫 Let's connect
