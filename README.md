@@ -27,10 +27,21 @@ Most of what I build follows the same loop:
 
 ## 📌 Featured projects
 
-### 🏈 [Pick'em](https://github.com/ak0hn/pickem)
-An NFL pick'em league app built to replace a manual email-based system.
-Players pick 6 games against the spread each week — all 6 must be correct to win.
-Built with Next.js, Supabase, and Vercel. Mobile-first PWA. Target launch: September 2026.
+### 🏆 Fantasy Champions League — *live, used weekly*
+A Champions League–style side tournament that runs in parallel with my 12-person fantasy
+football league all season, with its own side pot carved from the league buy-in.
+Every week each manager plays two matchups at once — their regular league game and a
+Champions League game — and both feed a group stage → knockout → bracket format.
+Spec'd and shipped in a day. Key design call: the only input is each manager's weekly
+score — every result, point, and standing is derived from it, so there's nothing for
+the commissioner to get wrong.
+Next.js · Vercel · Notion as the data backend. *(Private repo — real league data.)*
+
+### 🏈 [PickEm v2](https://github.com/ak0hn/pickemv2) — *in active development*
+An NFL pick'em league app replacing a manual, email-based system — players pick 6 games
+against the spread each week, and all 6 must hit to win. A ground-up rebuild of
+[v1](https://github.com/ak0hn/pickem), spec'd PRD-first and built epic by epic.
+Next.js · Supabase · Vercel · Mobile-first PWA.
 
 ### 🔒 Also in progress (private)
 
